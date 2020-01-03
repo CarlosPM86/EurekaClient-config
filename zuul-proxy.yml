@@ -1,0 +1,17 @@
+server:
+  port: 8282
+configuration:
+  texto: Ejemplo cambio 3
+
+spring:
+  profiles: dev
+
+---
+
+server:
+  port: 8283
+configuration:
+  texto: Ejemplo cambio 3
+
+spring:
+  profiles: pre
