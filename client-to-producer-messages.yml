@@ -1,5 +1,5 @@
 server:
-  port: 9999
+  port: 6767
 configuration:
   texto: Ejemplo cambio 3
 
